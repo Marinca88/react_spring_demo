@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\command",
+    "\\src\\container",
+    "\\src\\model",
+    "\\src\\presentational",
+    "\\src\\presenter",
+    "\\src\\rest",
+    "\\src\\ws"
+  ],
+  "PreviewInSolutionExplorer": false
+}
